@@ -1,0 +1,1 @@
+# Detecting_sentiment_of_quote_from_images
